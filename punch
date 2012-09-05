@@ -1,10 +1,10 @@
 #!/bin/sh
 
-#for mamaging timecards at work
+#for managing timecards at work
 
 #In the morning run:
 # ./punch in
-#When you leave run
+#When you leave run:
 # ./punch out
 
 #This will create a file called time 
