@@ -1,0 +1,4 @@
+#Cute oneliner commands
+
+#diff the hex output of two files (good for finding sibtle/whitespace differences)
+diff <(xxd b1) <(xxd b2)
